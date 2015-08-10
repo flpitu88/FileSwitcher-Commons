@@ -1,9 +1,9 @@
-package com.flpitu88.fileswitcher.mensajes;
+package com.flpitu88.fileSwitcher.mensajes;
 
 import java.io.Serializable;
 
 @SuppressWarnings("serial")
-public class MensajeNuevoUsuario extends Mensaje implements Serializable {
+public class MensajeNuevoUsuario implements Serializable {
 
 	// Atributos
 	private String usuario;
