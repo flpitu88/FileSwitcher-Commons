@@ -1,4 +1,4 @@
-package com.flpitu88.fileSwitcher.colecciones;
+package com.flpitu88.fileswitcher.colecciones;
 
 import java.io.Serializable;
 

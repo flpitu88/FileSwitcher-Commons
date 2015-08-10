@@ -1,4 +1,4 @@
-package com.flpitu88.fileSwitcher.utilitarios;
+package com.flpitu88.fileswitcher.utilitarios;
 
 //import java.text.DateFormat;
 import java.text.SimpleDateFormat;

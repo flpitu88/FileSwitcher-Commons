@@ -1,11 +1,11 @@
-package com.flpitu88.fileSwitcher.mensajes;
+package com.flpitu88.fileswitcher.mensajes;
 
 import java.io.Serializable;
 
-import com.flpitu88.fileSwitcher.colecciones.ListaPaths;
+import com.flpitu88.fileswitcher.colecciones.ListaPaths;
 
 @SuppressWarnings("serial")
-public class MensajeArchivosGuardar implements Serializable {
+public class MensajeArchivosGuardar extends Mensaje implements Serializable {
 	// Atributos
 	private ListaPaths listado; 
 	private int sizeMax;
